@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /remove-background-pro
+Disallow: /generate-background-pro
+Disallow: /restore-photos-pro
+Disallow: /upscale-photos-pro
+Disallow: /dashboard
+Disallow: /admin/ 
